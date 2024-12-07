@@ -1,0 +1,21 @@
+OrderID,CustomerID,OrderDate,Product,Category,Quantity,Price,Total,City,Country
+1001,ABC001,2024-01-15,Laptop,Electronics,1,1200,1200,New York,USA
+1002,ABC002,2024-01-17,Phone,Electronics,2,700,1400,Los Angeles,USA
+1003,ABC003,2024-01-20,Headphones,Electronics,3,50,150,Chicago,USA
+1004,ABC004,2024-02-01,Shoes,Fashion,1,100,100,Miami,USA
+1005,ABC005,2024-02-05,Watch,Fashion,1,250,250,Seattle,USA
+1006,ABC006,2024-02-10,Tablet,Electronics,2,400,800,San Francisco,USA
+1007,ABC007,2024-02-15,Jacket,Fashion,1,300,300,Boston,USA
+1008,ABC008,2024-03-01,Camera,Electronics,1,500,500,Atlanta,USA
+1009,ABC009,2024-03-05,Laptop,Electronics,1,1200,1200,Dallas,USA
+1010,ABC010,2024-03-10,Phone,Electronics,1,700,700,Houston,USA
+1011,ABC011,2024-03-15,T-Shirt,Fashion,3,20,60,New York,USA
+1012,ABC012,2024-03-20,Jeans,Fashion,2,50,100,San Diego,USA
+1013,ABC013,2024-03-25,Smartwatch,Electronics,1,300,300,Miami,USA
+1014,ABC014,2024-04-01,TV,Electronics,1,800,800,Chicago,USA
+1015,ABC015,2024-04-05,Shoes,Fashion,2,100,200,San Francisco,USA
+1016,ABC016,2024-04-10,Laptop,Electronics,1,1200,1200,Boston,USA
+1017,ABC017,2024-04-15,Headphones,Electronics,4,50,200,Seattle,USA
+1018,ABC018,2024-04-20,Tablet,Electronics,1,400,400,Dallas,USA
+1019,ABC019,2024-04-25,Watch,Fashion,1,250,250,Houston,USA
+1020,ABC020,2024-05-01,Jacket,Fashion,2,300,600,Los Angeles,USA
